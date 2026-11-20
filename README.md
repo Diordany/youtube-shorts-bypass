@@ -8,6 +8,8 @@ A Chrome extension that redirects YouTube Short URLs to the regular video player
 
 I got annoyed with YouTube's Shorts player, and I didn't want to manually modify the video URLs to load the regular player anymore.
 
+***Note: I don't use this anymore, since YouTube now actually allows me to navigate the timeline with the shorts player. For this reason I will archive this repo.***
+
 ## Method
 
 The extension uses a naïve approach. It assumes that the short is accessed with a URL of the following format:
